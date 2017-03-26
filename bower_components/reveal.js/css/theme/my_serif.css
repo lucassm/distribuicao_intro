@@ -16,8 +16,10 @@ body {
 
 .reveal {
   /*font-family: "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif;*/
-  font-family: 'Alegreya', serif;
-  font-size: 38px;
+  /*font-family: 'Alegreya', serif;*/
+  /*font-family: 'Source Sans Pro', sans-serif;*/
+  font-family: 'Harmattan', sans-serif;
+  font-size: 36px;
   font-weight: normal;
   color: #383D3D; }
 
@@ -42,7 +44,9 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #1481e3;
-  font-family: 'Alegreya', serif;
+  /*font-family: 'Alegreya', serif;*/
+  /*font-family: 'Source Sans Pro', sans-serif;*/
+  font-family: 'Harmattan', sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
@@ -50,11 +54,11 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.2em;
+  font-size: 2.2em;
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2) }
 
 .reveal h2 {
-  font-size: 2.11em; 
+  font-size: 2.2em; 
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2)}
 
 .reveal h3 {
