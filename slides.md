@@ -22,23 +22,38 @@ transmissão aos grandes, médios e pequenos consumidores.
 
 ## Geração
 
-- Hidrelétrica;
-- Termelétrica.
+Obtém-se **energia elétrica**, a partir da **conversão** de alguma outra forma de energia, utilizando-se **máquinas elétricas rotativas**, geradores síncronos ou alternadores, nas quais o conjugado mecânico é obtido através de um processo que, geralmente, utiliza turbinas **hidráulicas** ou a **vapor**.
+
+-  Hidráulicas: *tempo de construção bastante longo*, com *custo de investimento elevado*, porém, com *custo operacional extremamente baixo*.
+-  Térmicas: tempo de construção e custo de investimento sensivelmente menores, apresentando, no entanto, custo operacional elevado, em virtude do custo do combustível.
+
+## Geração
+
+![](Figuras/gerador_polos_lisos.jpg "Rotor de polos lisos"){ width=8.0in }
+
+## Geração
+
+![](Figuras/gerador_polos_salientes.jpg "Rotor de polos salientes"){ width=8.0in }
 
 ## Transmissão
 
-- Sistema Interligado Nacional;
-- Linhas de transmissão tanto em CA quanto em CC.
+O sistema de transmissão, que tem por função precípua o **transporte** da energia elétrica dos centros de produção aos de consumo, deve **operar interligado**.
+
+Atualmente, no mundo, há linhas operando em tensões próximas a *1.000 kV* e também elos em **corrente contínua**, atendidos por estação retificadora (+ 600 kV e – 600 kV), do lado da usina, e inversora, do lado do centro de consumo.
+
+Para **distâncias relativamente pequenas**, que representam a **maioria** do sistema de transmissão, as linhas são trifásicas e operam em tensão na faixa de **230 a 500 kV**.
 
 ## Bacias Hidrográficas e SIN
 
-![](Figuras/fig_4.svg "Sistema Interligado Nacional"){ width=6in }
+![](Figuras/transmissao.jpg "Sistema Interligado Nacional"){ width=6in }
 
 # Distribuição
 
 - Subtransmissão
 
-> Este elo tem a função de captar a energia em grosso das subestações de subtransmissão e transferi-la às SEs de distribuição e aos consumidores, em tensão de subtransmissão, através de linhas trifásicas operando em tensões, usualmente, de 138 kV ou 69 kV ou, mais raramente, em 34,5 kV.
+Este elo tem a função de **captar a energia** em grosso das **subestações de subtransmissão** e transferi-la às **SEs de distribuição** e aos **consumidores, em tensão de subtransmissão**, através de linhas trifásicas operando em tensões, usualmente, de 138 kV ou 69 kV ou, mais raramente, em 34,5 kV.
+
+[Sistema de Subtransmissão SE-Pici](./DU-PCD-132.pdf)
 
 # <!-- Redes de Subtrasmissão -->
 
@@ -83,13 +98,13 @@ Principais componentes:
 - Condutores;
 - Sistema de Proteção.
 
-## Subestações de distribuição
-
-![](Figuras/se_pici.jpg "Subestação de Distribuicao"){ width=7.8in }
-
 ## Subestação de distribuição
 
 ![](Figuras/fig_010.png "Unifilar Subestacao"){ width=6.5in }
+
+## Subestações de distribuição
+
+![](Figuras/se_pici.jpg "Subestação de Distribuicao"){ width=7.8in }
 
 ## Subestação de barramento simples
 
@@ -193,13 +208,6 @@ Dispõem de **chaves de seccionamento**, que operam na condição normal fechada
 ## Redes Aéreas
 
 ![](Figuras/fig_006.png "Rede Aquiraz Diagrama"){ width=8.0in }
-
-## Primário Seletivo
-
-## Redes Subterrâneas
-
-- Primário em malha aberta 
-- Spot Network
 
 
 # 
